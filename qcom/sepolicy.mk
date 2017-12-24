@@ -4,4 +4,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/gzosp/sepolicy/qcom
+    device/aos/sepolicy/qcom
