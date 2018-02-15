@@ -4,4 +4,5 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/aos/sepolicy/common
+    device/aos/sepolicy/common/vendor \
+    device/aos/sepolicy/common/private
